@@ -9,7 +9,7 @@ Created on Tue Sep  4 10:54:08 2018
 Machine Learning Problem Solving: 
 Implementing Linear Regression with one varible
 
-This exercise based on Andrew NG: Machine Learning Coursera week2 assigment, which could only solved in MATLAB or OCTAVE.
+This exercise based on Andrew NG: Machine Learning Coursera week2 assignement, which could only solved in MATLAB or OCTAVE.
 I used this exercise to code the solution completely in Python.
 
 Suppose we are the CEO of a food truck restaurant franchise and are considering
